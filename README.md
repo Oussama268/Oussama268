@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <p>My name is Oussama Afassi, and I study Web Development Full Stack, I really enjoy learning programming languages and frameworks like React and React native, and aslo checking the latest technologies. </p>
 <p>you can reach me using Email : oussamaafs268@gmail.com</p>
 
-<img width="450px" align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img width="400px" align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 
 <p>Or Connect with me from:</p>
