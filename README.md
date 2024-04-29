@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 
-<h2 width="50px">Languages and tools:</h2>
+<h3>Languages and tools:</h3>
 
 <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" ></span>
 <span><img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" ></span>
