@@ -36,14 +36,6 @@ Here are some ideas to get you started:
 
 
 
-<h2 style="color: green">About me: </h2>
-
-<ul>
-<li> 🔭 I’m currently studying at ISTA</li>
-<li> 🌱 I’m currently learning React,NextJS,NodeJS</li>
-<li> 💬 Ask me about Javascript,Html,Css I would be happy to help</li>
-</ul>
-
 
 
 <h2>Languages and tools:</h2>
