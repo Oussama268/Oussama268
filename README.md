@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello 👋</h1>
+<h1 align="center">Hello</h1>
 
 
 <p>My name is Oussama Afassi, and I study Web Development Full Stack, I really enjoy learning programming languages and frameworks like React and React native, and aslo checking the latest technologies. </p>
