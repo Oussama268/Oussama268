@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <h3 font-weight="bolder">Languages and tools:</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
   <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"></span>
   <span><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js"></span>
   <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular"></span>
