@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: '100vh'; gap: '50px';">
   <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"></span>
-  <span><img style="padding: '80px'" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js"></span>
+  <span><img style="padding: 80px" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js"></span>
   <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular"></span>
   <span><img width="40px" src="https://raw.githubusercontent.com/mrdoob/three.js/master/files/icon.svg" alt="Three.js"></span>
   <span><img width="40px" src="https://avatars.githubusercontent.com/u/44563681?s=200&v=4" alt="React Three Fiber"></span>
