@@ -40,13 +40,20 @@ Here are some ideas to get you started:
 
 <h3 font-weight="bolder">Languages and tools:</h3>
 
-<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" ></span>
-<span><img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" ></span>
-<span><img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" ></span>
-<span><img width="65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" ></span>
-<span><img width="65px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" ></span>
-<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/800px-Git_icon.svg.png" ></span>
-<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" ></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Three.js_Logo.svg" alt="Three.js"></span>
+<span><img width="40px" src="https://avatars.githubusercontent.com/u/44563681?s=200&v=4" alt="React Three Fiber"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js"></span>
+<span><img width="40px" src="https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Spring_Logo.svg" alt="Spring Boot"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Sql_logo.svg" alt="SQL"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Postman-logo.png" alt="Postman"></span>
+
 
 
 
