@@ -40,16 +40,16 @@ Here are some ideas to get you started:
 
 <h3 font-weight="bolder">Languages and tools:</h3>
 
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; gap: 50px;">
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: '100vh'; gap: '50px';">
   <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"></span>
-  <span><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js"></span>
+  <span><img style="padding: " width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js"></span>
   <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular"></span>
   <span><img width="40px" src="https://raw.githubusercontent.com/mrdoob/three.js/master/files/icon.svg" alt="Three.js"></span>
   <span><img width="40px" src="https://avatars.githubusercontent.com/u/44563681?s=200&v=4" alt="React Three Fiber"></span>
   <span><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js"></span>
   <span><img width="40px" src="https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js"></span>
   <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Spring_Logo.svg" alt="Spring Boot"></span>
-  <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL"></span>
+  <span><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL"></span>
   <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></span>
   <span><img width="80px" src="https://webimages.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" alt="MongoDB"></span>
   <span><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker"></span>
