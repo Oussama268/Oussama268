@@ -50,9 +50,9 @@ Here are some ideas to get you started:
   <span><img width="40px" src="https://en.wikipedia.org/wiki/Spring_Boot#/media/File:Spring_Boot.svg" alt="Spring Boot"></span>
   <span><img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL"></span>
   <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></span>
-  <span><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB"></span>
-  <span><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker"></span>
-  <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman"></span>
+  <span><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB"></span>
+  <span><img width="90px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker"></span>
+  <span><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman"></span>
 </div>
 
 
