@@ -47,12 +47,13 @@ Here are some ideas to get you started:
 <span><img width="40px" src="https://avatars.githubusercontent.com/u/44563681?s=200&v=4" alt="React Three Fiber"></span>
 <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js"></span>
 <span><img width="40px" src="https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js"></span>
-<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Spring_Logo.svg" alt="Spring Boot"></span>
-<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Sql_logo.svg" alt="SQL"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Spring-Framework-Logo.svg" alt="Spring Boot"></span>
+<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL"></span>
 <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></span>
-<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/en/4/45/MongoDB-Logo.svg" alt="MongoDB"></span>
+<span><img width="40px" src="https://webimages.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" alt="MongoDB"></span>
 <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker"></span>
-<span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Postman-logo.png" alt="Postman"></span>
+<span><img width="40px" src="https://www.postman.com/assets/logos/postman-logo-stacked.svg" alt="Postman"></span>
+
 
 
 
