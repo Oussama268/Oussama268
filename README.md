@@ -41,18 +41,18 @@ Here are some ideas to get you started:
 <h3 font-weight="bolder">Languages and tools:</h3>
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh; gap: 120px;">
-  <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"></span>
-  <span><img width="80px" padding-bottom="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js"></span>
-  <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular"></span>
-  <span><img width="40px" src="https://raw.githubusercontent.com/mrdoob/three.js/master/files/icon.svg" alt="Three.js"></span>
-  <span><img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js"></span>
-  <span><img width="40px" src="https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js"></span>
-  <span><img width="70px" src="https://blogs.ashrithgn.com/content/images/size/w1200/2021/02/spring-boot-logo.png" alt="Spring Boot"></span>
-  <span><img width="70px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL"></span>
-  <span><img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></span>
-  <span><img width="120px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB"></span>
-  <span><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker"></span>
-  <span><img width="100px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman"></span>
+  <span><img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"></span>
+  <span><img align="center" width="80px" padding-bottom="30px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js"></span>
+  <span><img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="Angular"></span>
+  <span><img align="center" width="40px" src="https://raw.githubusercontent.com/mrdoob/three.js/master/files/icon.svg" alt="Three.js"></span>
+  <span><img align="center" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js"></span>
+  <span><img align="center" width="40px" src="https://docs.nestjs.com/assets/logo-small.svg" alt="Nest.js"></span>
+  <span><img align="center" width="70px" src="https://blogs.ashrithgn.com/content/images/size/w1200/2021/02/spring-boot-logo.png" alt="Spring Boot"></span>
+  <span><img align="center" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL"></span>
+  <span><img align="center" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL"></span>
+  <span><img align="center" width="120px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB"></span>
+  <span><img align="center" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker"></span>
+  <span><img align="center" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman"></span>
 </div>
 
 
