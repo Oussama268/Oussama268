@@ -92,55 +92,15 @@
 <table border="0">
 <tr border="0">
 <td width="50%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mark123jesper&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Oussama268&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 
 <td width="50%" align="center">
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mark123jesper&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
+<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Oussama268&theme=dark&hide_border=true" />
+<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Oussama268&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
 </td>
 </tr>
 </table>
-                                                                                    
-<p  align="center">
-<a href="https://github.com/mark123jesper/mark123jesper.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mark123jesper&repo=mark123jesper.github.io&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/mark123jesper-v1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mark123jesper&repo=mark123jesper-v1&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mark123jesper&repo=digi-life-magazine&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/dot-logix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mark123jesper&repo=dot-logix&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/PHP-fullstack-training">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mark123jesper&repo=PHP-fullstack-training&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/react-todos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mark123jesper&repo=react-todos&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/codewars-solutions">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mark123jesper&repo=codewars-solutions&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-<a href="https://github.com/mark123jesper/react-meetup">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mark123jesper&repo=react-meetup&theme=dark&hide_border=true&no-bg=true&no-frame=true" />
-</a>
-</p>
-                                                                                                                 
-<p  align="center">
-<img  src="https://hacked-github-stat-trophies-mu.vercel.app/?username=mark123jesper&theme=gruvbox&no-frame=true&column=5&margin-w=0&margin-h=0"  alt="Mark Jesper github stats"/>
-</p>
-
-<p  align="center">
-<a  href="https://github.com/mark123jesper/github-readme-activity-graph"><img  alt="Mark's Activity Graph"  src="https://activity-graph.herokuapp.com/graph?username=mark123jesper&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&no-bg=true&no-frame=true" /></a>
-</p>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
 
 
                                                                                          
@@ -148,7 +108,7 @@
 <br>
 <p  align="center">
 <a  href="https://www.linkedin.com/in/oussama-afassi/"><img  alt="LinkedIn"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.upwork.com/freelancers/~01da08481531e334ca?nav_dir=pop"><img alt="Static Badge" src="https://img.shields.io/badge/UpWork%2C%20Black"></a>
+<a href="https://www.upwork.com/freelancers/~01da08481531e334ca?nav_dir=pop"><img  alt="LinkedIn"  src="https://img.shields.io/badge/upwork-%230077B5.svg?style=for-the-badge&logo=upwork&logoColor=black"/></a>
 <a href="mailto:oussamaafs268@gmail.com"><img  alt="Gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
